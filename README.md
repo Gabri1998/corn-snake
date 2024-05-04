@@ -1,1 +1,1 @@
-# korn-snake
+# corn-snake
